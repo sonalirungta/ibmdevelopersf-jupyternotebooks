@@ -13,5 +13,5 @@
 7. **[Free Watson Studio Desktop for Universities](https://www.ibm.com/products/watson-studio-desktop)** - https://www.ibm.com/products/watson-studio-desktop
 8. **[IBM Cloud Sign up](https://ibm.biz/Bd2XTE)** - https://ibm.biz/Bd2XTE
 9. **[IBM Data Science courses on Coursera](https://www.coursera.org/courses?query=ibm%20data%20science)**
-  - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+  - **[IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)**
   - **[Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)**
