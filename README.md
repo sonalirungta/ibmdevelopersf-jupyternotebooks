@@ -2,6 +2,9 @@
 
 ## Replay
 **[Introduction to Jupyter notebooks in Watson Studio](https://www.crowdcast.io/e/introduction-to-jupyter)** - https://www.crowdcast.io/e/introduction-to-jupyter
+
+## Presentation
+[Introduction to Jupyter Notebooks on Watson Studio](asset/ibm-jupyter-notebooks.pdf)
 ## Useful Links
 
 1. **[Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)** - http://pandas.pydata.org/pandas-docs/stable/
